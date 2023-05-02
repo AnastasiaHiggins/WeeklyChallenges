@@ -66,7 +66,7 @@ namespace ChallengesWithTestsMark8
             return numbers.Sum();
         }
 
-        public static int SumEvens(int[] numbers)
+        public int SumEvens(int[] numbers)
         {
             int evens = 0;
             int odds = 0;
